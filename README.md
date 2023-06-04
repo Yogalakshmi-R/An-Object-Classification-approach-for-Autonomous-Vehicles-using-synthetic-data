@@ -16,10 +16,9 @@ https://github.com/YunYang1994/tensorflow-yolov3/releases/download/v1.0/yolov3_c
 
 4.extract this file under the below path:
  ..\CARLA_0.9.9\WindowsNoEditor\PythonAPI\examples\tensorflow-yolov3\checkpoint
- 
 5. 
-```bash
- cd..
+   ```bash
+cd..
 python convert_weight.py
 python freeze_graph.py
 ```
