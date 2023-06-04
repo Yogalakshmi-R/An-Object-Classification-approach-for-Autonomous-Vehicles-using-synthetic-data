@@ -4,7 +4,8 @@ Object detection using YOLOv3 with TensorFlow 1.15.x in Carla Simulator
 1. Download Carla 0.9.9 and python 3.7.5
 
 ```bash
- https://github.com/carla-simulator/carla/releases/tag/0.9.9/ ``` 
+ https://github.com/carla-simulator/carla/releases/tag/0.9.9/ 
+ ``` 
  
 2. Navigate to the Carla Simulator examples path by using the cd command. Assuming the examples path is located at 
 \CARLA_0.9.9\WindowsNoEditor\PythonAPI\examples
