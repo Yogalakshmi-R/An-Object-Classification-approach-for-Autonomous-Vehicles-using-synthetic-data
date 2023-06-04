@@ -31,7 +31,6 @@ python freeze_graph.py
 python spawn_npc.py
 python yolov3_object_detection.py
 ```
-
 # Project Directory Structure
 ```bash 
 .CARLA_0.9.9            
