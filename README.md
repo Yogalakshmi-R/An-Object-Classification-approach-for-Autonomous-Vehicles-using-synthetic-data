@@ -14,7 +14,7 @@ Object detection using YOLOv3 with TensorFlow 1.15.x in Carla Simulator
 https://github.com/YunYang1994/tensorflow-yolov3/releases/download/v1.0/yolov3_coco.tar.gz
 ```
 
-4.extract this file under the below path:
+4.Extract this file under the below path:
  ..\CARLA_0.9.9\WindowsNoEditor\PythonAPI\examples\tensorflow-yolov3\checkpoint
 
    ```bash
@@ -46,4 +46,5 @@ python yolov3_object_detection.py
 │   │   │   │ 	├── yolov3_object_detection.py
 │   │   │   │ 	├── tensorflow_yolov3    
 │   │   │   │ 	│   │  	├── carla
-│   │   │   │ 	│   │	│   ├── utils.py ```           
+│   │   │   │ 	│   │	│   ├── utils.py
+```           
