@@ -24,10 +24,9 @@ cd..
 python convert_weight.py
 python freeze_graph.py
 ```
+5. Open CarlaEU4.exe (..\CARLA_0.9.9\WindowsNoEditor)
 
-6. Open CarlaEU4.exe (..\CARLA_0.9.9\WindowsNoEditor)
-
-7. Run Command
+6. Run Command
 ```bash
 python spawn_npc.py
 python yolov3_object_detection.py
